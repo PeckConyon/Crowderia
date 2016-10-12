@@ -10,6 +10,7 @@ namespace GITProject1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("First Line to Commit");
         }
     }
 }
