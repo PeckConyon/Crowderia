@@ -1,0 +1,6 @@
+F:\GIT\Crowderia\Crowderia\GITProject1\GITProject1\bin\Debug\GITProject1.exe.config
+F:\GIT\Crowderia\Crowderia\GITProject1\GITProject1\bin\Debug\GITProject1.exe
+F:\GIT\Crowderia\Crowderia\GITProject1\GITProject1\bin\Debug\GITProject1.pdb
+F:\GIT\Crowderia\Crowderia\GITProject1\GITProject1\obj\Debug\GITProject1.csprojResolveAssemblyReference.cache
+F:\GIT\Crowderia\Crowderia\GITProject1\GITProject1\obj\Debug\GITProject1.exe
+F:\GIT\Crowderia\Crowderia\GITProject1\GITProject1\obj\Debug\GITProject1.pdb
